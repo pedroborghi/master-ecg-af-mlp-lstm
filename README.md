@@ -14,3 +14,7 @@ Codes from my Master's Thesis on ECG Classification at Instituto Politécnico de
 # License
 
 This project is licensed under the BSD 3-Clause License
+
+# Contact
+
+borghi@fe.up.pt
