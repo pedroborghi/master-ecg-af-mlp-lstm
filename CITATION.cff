@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Se utilizar estes códigos, por favor cite a tese de mestrado e o repositório conforme indicado abaixo."
+authors:
+  - family-names: "Borghi"
+    given-names: "Pedro Henrique"
+title: "MATLAB scripts para Classificação de Fibrilação Atrial"
+version: 1.0.0
+date-released: 2020-01-01
+url: "https://github.com/pedroborghi/master-ECG-systems"
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: "Borghi"
+      given-names: "Pedro Henrique"
+  title: "Classificação de episódios de fibrilação atrial por análise do ECG com redes neuronais artificiais MLP e LSTM"
+  year: 2020
+  institution:
+    name: "Instituto Politécnico de Bragança"
+  thesis-type: "Dissertação de Mestrado"
+  url: "http://hdl.handle.net/10198/22976"
