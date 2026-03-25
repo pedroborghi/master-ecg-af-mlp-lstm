@@ -6,7 +6,7 @@ authors:
 title: "MATLAB scripts para Classificação de Fibrilação Atrial"
 version: 1.0.0
 date-released: 2026-03-24
-url: "https://github.com/pedroborghi/master-ECG-systems"
+url: "https://github.com/pedroborghi/master-ecg-af-mlp-lstm"
 preferred-citation:
   type: thesis
   authors:
